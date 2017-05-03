@@ -1,0 +1,45 @@
+@font-face {
+	font-family: "amaranthBold";
+	src: url("../fonts/amaranth/Amaranth-Bold.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "amaranthBoldItalic";
+	src: url("../fonts/amaranth/Amaranth-BoldItalic.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "amaranthItalic";
+	src: url("../fonts/amaranth/Amaranth-Italic.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "amaranthRegular";
+	src: url("../fonts/amaranth/Amaranth-Regular.otf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/*pt-sans*/
+
+@font-face {
+	font-family: "PTsansBold";
+	src: url("../fonts/pt-sans/PTC75F.ttf");
+}
+
+@font-face {
+	font-family: "PTsansRegular";
+	src: url("../fonts/pt-sans/PTC55F.ttf");
+}
+
+@font-face {
+	font-family: "PTsansBoldItalic";
+	src: url("../fonts/pt-sans/PTS76F.ttf");
+}
